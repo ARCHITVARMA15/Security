@@ -1,0 +1,6 @@
+Evals using Ragas and diffrent metrics 
+Answer Relevenace
+Context precision 
+Context Recall
+Faitfullness
+ 
